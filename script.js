@@ -68,7 +68,7 @@ function quirky(){
     if(bestShip[i] !== friendShip[j]){
       console.log(bestShip[i])
       console.log(friendShip[j])
-      console.log("good to go")
+      console.log("good to go!")
     }
 }
 
