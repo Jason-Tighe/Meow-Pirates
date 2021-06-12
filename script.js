@@ -57,10 +57,14 @@ class Pirate {
   }
 }
 
-
+//i think i misunderstood what was needed for the final part.
+//i just put names in the array and compared, i tihnk i was supposed to push the into an array like with the cats and then compare....
 
 const bestShip = ["Bob the Best", "Billy from the West", "Beck from the Block"]
 const friendShip = ["Brian", "Richie", "Skylar"]
+
+
+
 
 function quirky(){
   for(let i = 0; i < bestShip.length; i++)
